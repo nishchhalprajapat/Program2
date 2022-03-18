@@ -3,7 +3,6 @@ import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.Test;
 import com.sebone.program.basic.CountDigit;
 class CountDigitTest {
-
 	@Test
 	void test() {
 		CountDigit countDigit=new CountDigit();
