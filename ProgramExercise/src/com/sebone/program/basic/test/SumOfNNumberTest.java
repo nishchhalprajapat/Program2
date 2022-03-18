@@ -1,13 +1,8 @@
 package com.sebone.program.basic.test;
-
 import static org.junit.jupiter.api.Assertions.*;
-
 import org.junit.jupiter.api.Test;
-
 import com.sebone.program.basic.SumOfNNumber;
-
 class SumOfNNumberTest {
-
 	@Test
 	void test() {
 		SumOfNNumber sumOfNNUmber=new SumOfNNumber();
